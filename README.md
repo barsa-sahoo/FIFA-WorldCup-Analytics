@@ -42,7 +42,7 @@ These dashboards provide a comprehensive overview, match insights, and detailed 
 - Host Countries: A slider showing countries that have hosted the World Cup.
 - World Cup Winners: A donut chart displaying the percentage of wins by countries, with Brazil (22.73%), Germany (18.18%), and Italy (18.18%) as the top three.
 - Top Qualifying Countries: A bar chart highlighting the countries that qualified most frequently, such as Brazil, Germany, and Argentina.
-- Winning Stats: A table with detailed winning statistics, including the winning team, runner-up, final score, and host country from 1986 to 2018.
+- Winning Stats: A table with detailed winning statistics, including the winning team, runner-up, final score, and host country from 1986 to 2022.
 
 #### Match Insights
 - Team Performance in Knock-out & Group Stage: A bar chart illustrating the performance of top teams like Argentina, Brazil, and England in group and knockout stages.
@@ -53,8 +53,8 @@ These dashboards provide a comprehensive overview, match insights, and detailed 
 
 #### Player Details
 - Total Players: Reiterates the total number of players (4,172).
-- Player Foot Preference: A donut chart shows that 92.48% of players prefer their right foot, while 7.52% prefer their left.
-- Count of Players by Club: A bar chart with the top 10 clubs by the number of players, such as Real Madrid and Atlético Madrid.
+- Player Foot Preference: A donut chart shows that 92.48% of players are right footed, while 7.52% are left footed.
+- Count of Players by Club: A bar chart with the top 10 clubs by the number of players, such as Real Madrid and Atlético Madrid having the high number of players.
 - Count of Players by Position: A bar chart categorizing players by position, with Midfielders, Defenders, and Forwards as the top positions.
 - Performance Analysis by Height and Weight: Scatter plots analyzing player performance by height and weight.
 - Performance Analysis by Preferred Foot: A scatter plot assessing player performance based on their preferred foot.
