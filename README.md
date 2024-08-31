@@ -32,9 +32,9 @@ The project was executed in three key stages:
 
 
 ## Dashboard Overview
-![alt text](Assets/Screenshot 2024-08-31 231540.png)
-![alt text](Assets/Screenshot 2024-08-31 231606.png)
-![alt text](Assets/Screenshot 2024-08-31 231705.png)
+![alt text](Assets\screenshot_1.png)
+![alt text](Assets\screenshot_2.png)
+![alt text](Assets\screenshot_3.png)
 These dashboards provide a comprehensive overview, match insights, and detailed player analysis of the FIFA World Cup from 1986 to 2022:
 
 #### Overview of the FIFA World Cup Analysis
